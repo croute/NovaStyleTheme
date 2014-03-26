@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="NovaAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/default_bg</item>
+        <item name="android:colorBackground">@color/default_bg</item>
+
+        <item name="android:buttonStyle">@style/Nova.Widget.Button</item>
+
+    </style>
+
+</resources>
